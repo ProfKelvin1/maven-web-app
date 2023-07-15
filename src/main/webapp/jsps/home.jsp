@@ -29,18 +29,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 </h1>
 	
 <hr>
-<div style="text-align: center;">
-	<span>
-	</span>
-	<span style="font-weight: bold;">
-                Sysmsify Technology, 
-		Toronto, Canada
-		+1 647 864 0494,
-		info@sysmsify.com
-		<br>
-		<a href="mailto:info@sysmsify.com">Mail to Sysmsify Technologies</a>
-	</span>
-</div>
+
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
